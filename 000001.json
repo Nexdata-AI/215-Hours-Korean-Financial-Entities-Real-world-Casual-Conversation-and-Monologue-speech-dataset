@@ -1,0 +1,748 @@
+{
+    "enties": [
+        {
+            "id": 1,
+            "name": "Cohen",
+            "type": "PERSON",
+            "start": 10,
+            "end": 15,
+            "lettercase": "UC"
+        },
+        {
+            "id": 2,
+            "name": "the US",
+            "type": "LOCATION",
+            "start": 347,
+            "end": 353,
+            "lettercase": "MC"
+        },
+        {
+            "id": 3,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 361,
+            "end": 366,
+            "lettercase": "UC"
+        },
+        {
+            "id": 4,
+            "name": "a year ago",
+            "type": "TIME",
+            "start": 564,
+            "end": 574,
+            "lettercase": "LC"
+        },
+        {
+            "id": 5,
+            "name": "next few quarters",
+            "type": "TIME",
+            "start": 710,
+            "end": 727,
+            "lettercase": "LC"
+        },
+        {
+            "id": 6,
+            "name": "US",
+            "type": "LOCATION",
+            "start": 816,
+            "end": 818,
+            "lettercase": "CA"
+        },
+        {
+            "id": 7,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 823,
+            "end": 828,
+            "lettercase": "UC"
+        },
+        {
+            "id": 8,
+            "name": "the US",
+            "type": "LOCATION",
+            "start": 1000,
+            "end": 1006,
+            "lettercase": "MC"
+        },
+        {
+            "id": 9,
+            "name": "White House",
+            "type": "LOCATION",
+            "start": 1327,
+            "end": 1338,
+            "lettercase": "MC"
+        },
+        {
+            "id": 10,
+            "name": "US",
+            "type": "LOCATION",
+            "start": 1555,
+            "end": 1557,
+            "lettercase": "CA"
+        },
+        {
+            "id": 11,
+            "name": "Trump",
+            "type": "PERSON",
+            "start": 1592,
+            "end": 1597,
+            "lettercase": "UC"
+        },
+        {
+            "id": 12,
+            "name": "Canada",
+            "type": "LOCATION",
+            "start": 1718,
+            "end": 1724,
+            "lettercase": "UC"
+        },
+        {
+            "id": 13,
+            "name": "next year",
+            "type": "TIME",
+            "start": 1867,
+            "end": 1876,
+            "lettercase": "LC"
+        },
+        {
+            "id": 14,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 2110,
+            "end": 2115,
+            "lettercase": "UC"
+        },
+        {
+            "id": 15,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 2146,
+            "end": 2151,
+            "lettercase": "UC"
+        },
+        {
+            "id": 16,
+            "name": "Terrace",
+            "type": "LOCATION",
+            "start": 2321,
+            "end": 2328,
+            "lettercase": "UC"
+        },
+        {
+            "id": 17,
+            "name": "Harris",
+            "type": "LOCATION",
+            "start": 2366,
+            "end": 2372,
+            "lettercase": "UC"
+        },
+        {
+            "id": 18,
+            "name": "America",
+            "type": "LOCATION",
+            "start": 2443,
+            "end": 2450,
+            "lettercase": "UC"
+        },
+        {
+            "id": 19,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 3068,
+            "end": 3073,
+            "lettercase": "UC"
+        },
+        {
+            "id": 20,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 3866,
+            "end": 3871,
+            "lettercase": "UC"
+        },
+        {
+            "id": 21,
+            "name": "India",
+            "type": "LOCATION",
+            "start": 3891,
+            "end": 3896,
+            "lettercase": "UC"
+        },
+        {
+            "id": 22,
+            "name": "EU",
+            "type": "ORGANIZATION",
+            "start": 3919,
+            "end": 3921,
+            "lettercase": "CA"
+        },
+        {
+            "id": 23,
+            "name": "WTO",
+            "type": "ORGANIZATION",
+            "start": 3949,
+            "end": 3952,
+            "lettercase": "CA"
+        },
+        {
+            "id": 24,
+            "name": "America",
+            "type": "LOCATION",
+            "start": 3963,
+            "end": 3970,
+            "lettercase": "UC"
+        },
+        {
+            "id": 25,
+            "name": "WTO",
+            "type": "ORGANIZATION",
+            "start": 4050,
+            "end": 4053,
+            "lettercase": "CA"
+        },
+        {
+            "id": 26,
+            "name": "WTO",
+            "type": "ORGANIZATION",
+            "start": 4191,
+            "end": 4194,
+            "lettercase": "CA"
+        },
+        {
+            "id": 27,
+            "name": "WTO",
+            "type": "ORGANIZATION",
+            "start": 4268,
+            "end": 4271,
+            "lettercase": "CA"
+        },
+        {
+            "id": 28,
+            "name": "United States",
+            "type": "LOCATION",
+            "start": 4613,
+            "end": 4626,
+            "lettercase": "MC"
+        },
+        {
+            "id": 29,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 4679,
+            "end": 4684,
+            "lettercase": "UC"
+        },
+        {
+            "id": 30,
+            "name": "WTO",
+            "type": "ORGANIZATION",
+            "start": 4755,
+            "end": 4758,
+            "lettercase": "CA"
+        },
+        {
+            "id": 31,
+            "name": "World Trade Organization",
+            "type": "ORGANIZATION",
+            "start": 4920,
+            "end": 4944,
+            "lettercase": "MC"
+        },
+        {
+            "id": 32,
+            "name": "United Nations",
+            "type": "ORGANIZATION",
+            "start": 5015,
+            "end": 5029,
+            "lettercase": "MC"
+        },
+        {
+            "id": 33,
+            "name": "United Nations",
+            "type": "ORGANIZATION",
+            "start": 5077,
+            "end": 5091,
+            "lettercase": "MC"
+        },
+        {
+            "id": 34,
+            "name": "NATO",
+            "type": "ORGANIZATION",
+            "start": 5306,
+            "end": 5310,
+            "lettercase": "CA"
+        },
+        {
+            "id": 35,
+            "name": "UN",
+            "type": "ORGANIZATION",
+            "start": 5461,
+            "end": 5463,
+            "lettercase": "CA"
+        },
+        {
+            "id": 36,
+            "name": "the last couple of years",
+            "type": "TIME",
+            "start": 5861,
+            "end": 5885,
+            "lettercase": "LC"
+        },
+        {
+            "id": 37,
+            "name": "U.S.",
+            "type": "LOCATION",
+            "start": 6740,
+            "end": 6744,
+            "lettercase": "CA"
+        },
+        {
+            "id": 38,
+            "name": "Trump",
+            "type": "PERSON",
+            "start": 6914,
+            "end": 6919,
+            "lettercase": "UC"
+        },
+        {
+            "id": 39,
+            "name": "America",
+            "type": "LOCATION",
+            "start": 6974,
+            "end": 6981,
+            "lettercase": "UC"
+        },
+        {
+            "id": 40,
+            "name": "Trump",
+            "type": "PERSON",
+            "start": 7029,
+            "end": 7034,
+            "lettercase": "UC"
+        },
+        {
+            "id": 41,
+            "name": "America",
+            "type": "LOCATION",
+            "start": 7089,
+            "end": 7096,
+            "lettercase": "UC"
+        },
+        {
+            "id": 42,
+            "name": "America",
+            "type": "LOCATION",
+            "start": 7194,
+            "end": 7201,
+            "lettercase": "UC"
+        },
+        {
+            "id": 43,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 7288,
+            "end": 7293,
+            "lettercase": "UC"
+        },
+        {
+            "id": 44,
+            "name": "the United States",
+            "type": "LOCATION",
+            "start": 7694,
+            "end": 7711,
+            "lettercase": "MC"
+        },
+        {
+            "id": 45,
+            "name": "United States",
+            "type": "LOCATION",
+            "start": 7803,
+            "end": 7816,
+            "lettercase": "MC"
+        },
+        {
+            "id": 46,
+            "name": "five years ago",
+            "type": "TIME",
+            "start": 8258,
+            "end": 8272,
+            "lettercase": "LC"
+        },
+        {
+            "id": 47,
+            "name": "Walmart",
+            "type": "LOCATION",
+            "start": 9057,
+            "end": 9064,
+            "lettercase": "UC"
+        },
+        {
+            "id": 48,
+            "name": "Donald Trump",
+            "type": "PERSON",
+            "start": 9285,
+            "end": 9297,
+            "lettercase": "MC"
+        },
+        {
+            "id": 49,
+            "name": "America",
+            "type": "LOCATION",
+            "start": 9420,
+            "end": 9427,
+            "lettercase": "UC"
+        },
+        {
+            "id": 50,
+            "name": "the US",
+            "type": "LOCATION",
+            "start": 9741,
+            "end": 9747,
+            "lettercase": "MC"
+        },
+        {
+            "id": 51,
+            "name": "Chinese government",
+            "type": "ORGANIZATION",
+            "start": 9977,
+            "end": 9995,
+            "lettercase": "UC"
+        },
+        {
+            "id": 52,
+            "name": "the US",
+            "type": "LOCATION",
+            "start": 10210,
+            "end": 10216,
+            "lettercase": "MC"
+        },
+        {
+            "id": 53,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 10285,
+            "end": 10290,
+            "lettercase": "UC"
+        },
+        {
+            "id": 54,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 10392,
+            "end": 10397,
+            "lettercase": "UC"
+        },
+        {
+            "id": 55,
+            "name": "Bangladesh",
+            "type": "LOCATION",
+            "start": 10670,
+            "end": 10680,
+            "lettercase": "UC"
+        },
+        {
+            "id": 56,
+            "name": "America",
+            "type": "LOCATION",
+            "start": 10830,
+            "end": 10837,
+            "lettercase": "UC"
+        },
+        {
+            "id": 57,
+            "name": "Vietnam",
+            "type": "LOCATION",
+            "start": 11232,
+            "end": 11239,
+            "lettercase": "UC"
+        },
+        {
+            "id": 58,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 11333,
+            "end": 11338,
+            "lettercase": "UC"
+        },
+        {
+            "id": 59,
+            "name": "US",
+            "type": "LOCATION",
+            "start": 11506,
+            "end": 11508,
+            "lettercase": "CA"
+        },
+        {
+            "id": 60,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 11509,
+            "end": 11514,
+            "lettercase": "UC"
+        },
+        {
+            "id": 61,
+            "name": "US",
+            "type": "LOCATION",
+            "start": 11634,
+            "end": 11636,
+            "lettercase": "CA"
+        },
+        {
+            "id": 62,
+            "name": "Trump",
+            "type": "PERSON",
+            "start": 12007,
+            "end": 12012,
+            "lettercase": "UC"
+        },
+        {
+            "id": 63,
+            "name": "Vietnam",
+            "type": "LOCATION",
+            "start": 12117,
+            "end": 12124,
+            "lettercase": "UC"
+        },
+        {
+            "id": 64,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 12130,
+            "end": 12135,
+            "lettercase": "UC"
+        },
+        {
+            "id": 65,
+            "name": "the US",
+            "type": "LOCATION",
+            "start": 12399,
+            "end": 12405,
+            "lettercase": "MC"
+        },
+        {
+            "id": 66,
+            "name": "America",
+            "type": "LOCATION",
+            "start": 12586,
+            "end": 12593,
+            "lettercase": "UC"
+        },
+        {
+            "id": 67,
+            "name": "the United States",
+            "type": "LOCATION",
+            "start": 12660,
+            "end": 12677,
+            "lettercase": "MC"
+        },
+        {
+            "id": 68,
+            "name": "C",
+            "type": "PERSON",
+            "start": 13662,
+            "end": 13663,
+            "lettercase": "CA"
+        },
+        {
+            "id": 69,
+            "name": "Trump",
+            "type": "PERSON",
+            "start": 13694,
+            "end": 13699,
+            "lettercase": "UC"
+        },
+        {
+            "id": 70,
+            "name": "Trump",
+            "type": "PERSON",
+            "start": 13747,
+            "end": 13752,
+            "lettercase": "UC"
+        },
+        {
+            "id": 71,
+            "name": "next six months",
+            "type": "TIME",
+            "start": 13789,
+            "end": 13804,
+            "lettercase": "LC"
+        },
+        {
+            "id": 72,
+            "name": "next two or three years",
+            "type": "TIME",
+            "start": 13812,
+            "end": 13835,
+            "lettercase": "LC"
+        },
+        {
+            "id": 73,
+            "name": "three years from now",
+            "type": "TIME",
+            "start": 14398,
+            "end": 14418,
+            "lettercase": "LC"
+        },
+        {
+            "id": 74,
+            "name": "over the next year or two",
+            "type": "TIME",
+            "start": 14424,
+            "end": 14449,
+            "lettercase": "LC"
+        },
+        {
+            "id": 75,
+            "name": "two thousand and nine",
+            "type": "TIME",
+            "start": 15451,
+            "end": 15472,
+            "lettercase": "LC"
+        },
+        {
+            "id": 76,
+            "name": "ten years ago",
+            "type": "TIME",
+            "start": 15741,
+            "end": 15754,
+            "lettercase": "LC"
+        },
+        {
+            "id": 77,
+            "name": "ten year",
+            "type": "TIME",
+            "start": 16065,
+            "end": 16073,
+            "lettercase": "LC"
+        },
+        {
+            "id": 78,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 16297,
+            "end": 16302,
+            "lettercase": "UC"
+        },
+        {
+            "id": 79,
+            "name": "the US",
+            "type": "LOCATION",
+            "start": 16447,
+            "end": 16453,
+            "lettercase": "MC"
+        },
+        {
+            "id": 80,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 16523,
+            "end": 16528,
+            "lettercase": "UC"
+        },
+        {
+            "id": 81,
+            "name": "C",
+            "type": "PERSON",
+            "start": 16844,
+            "end": 16845,
+            "lettercase": "CA"
+        },
+        {
+            "id": 82,
+            "name": "Trump",
+            "type": "PERSON",
+            "start": 16876,
+            "end": 16881,
+            "lettercase": "UC"
+        },
+        {
+            "id": 83,
+            "name": "Trump",
+            "type": "PERSON",
+            "start": 16925,
+            "end": 16930,
+            "lettercase": "UC"
+        },
+        {
+            "id": 84,
+            "name": "the United States",
+            "type": "LOCATION",
+            "start": 17342,
+            "end": 17359,
+            "lettercase": "MC"
+        },
+        {
+            "id": 85,
+            "name": "Trump",
+            "type": "PERSON",
+            "start": 17367,
+            "end": 17372,
+            "lettercase": "UC"
+        },
+        {
+            "id": 86,
+            "name": "next eighteen months",
+            "type": "TIME",
+            "start": 17541,
+            "end": 17561,
+            "lettercase": "LC"
+        },
+        {
+            "id": 87,
+            "name": "US",
+            "type": "LOCATION",
+            "start": 17562,
+            "end": 17564,
+            "lettercase": "CA"
+        },
+        {
+            "id": 88,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 17617,
+            "end": 17622,
+            "lettercase": "UC"
+        },
+        {
+            "id": 89,
+            "name": "China",
+            "type": "LOCATION",
+            "start": 17628,
+            "end": 17633,
+            "lettercase": "UC"
+        },
+        {
+            "id": 90,
+            "name": "US",
+            "type": "LOCATION",
+            "start": 17713,
+            "end": 17715,
+            "lettercase": "CA"
+        },
+        {
+            "id": 91,
+            "name": "the US",
+            "type": "LOCATION",
+            "start": 18764,
+            "end": 18770,
+            "lettercase": "MC"
+        },
+        {
+            "id": 92,
+            "name": "next few years",
+            "type": "TIME",
+            "start": 20018,
+            "end": 20032,
+            "lettercase": "LC"
+        },
+        {
+            "id": 93,
+            "name": "Cohen",
+            "type": "PERSON",
+            "start": 20044,
+            "end": 20049,
+            "lettercase": "UC"
+        }
+    ]
+}

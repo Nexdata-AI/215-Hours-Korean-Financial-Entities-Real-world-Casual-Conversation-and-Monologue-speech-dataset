@@ -1,0 +1,36 @@
+LHD	DataTang-v1.2
+DBN
+SES	category
+CMT	*** Speech Label Information ***
+FIP	data/category/000001.wav
+CCD	Macroeconomics
+REP	indoor
+RED
+RET
+CMT	*** Speech Data Coding ***
+SAM	16000
+SNB	2
+SBF	lohi
+SSB	16
+QNT	wav
+NCH	1
+CMT	*** Speaker Information ***
+SCD	O2,O1
+SEX	O2_Female,O1_Male
+AGE
+ACC
+ACT	O1_American Accent,O2_British Accent
+BIR
+CMT	*** Recording Conditions ***
+SNQ
+MIP	close
+MIT
+SCC	Quiet
+CMT	*** Label File Body ***
+LBD	000001.txt
+LBR	1401.045625
+LBO	1166.1058503249885
+CMT	*** Customized Label Body ***
+SRA
+EMO
+ORS
