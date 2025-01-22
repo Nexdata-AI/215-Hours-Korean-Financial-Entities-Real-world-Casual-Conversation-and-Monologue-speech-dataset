@@ -1,0 +1,1 @@
+# 215-Hours-Korean-Financial-Entities-Real-world-Casual-Conversation-and-Monologue-speech-dataset
